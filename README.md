@@ -13,7 +13,7 @@ packages <- c(
     'lubridate', 
     'rmarkdown', 
     'shinystan', 
-    'tidyverse', 
+    'tidyverse'
 )
 install.packages(packages)
 ```
