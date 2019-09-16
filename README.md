@@ -18,3 +18,6 @@ packages <- c(
 install.packages(packages)
 ```
 
+--------
+
+The text in this repository is distributed under the CC BY 4.0 License and code is distributed under the New BSD License. Copyright to the authors (Lauren Kennedy, Jonah Gabry & Rob Trangucci)
